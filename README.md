@@ -7,10 +7,12 @@
 
 
 
-활용한 오픈소스 AI (2D)    : Flux.1 Dev, Flux.1 schnell, Stable Diffusion (1.5, SDXL, 3.5)
+활용한 오픈소스 AI (2D)              : Flux.1 Dev, Flux.1 schnell, Stable Diffusion (1.5, SDXL, 3.5)
 
-활용한 오픈소스 AI (3D)    : TripoSG, Trellis
+활용한 오픈소스 AI (3D)              : TripoSG, Trellis
 
-활용한 오픈소스 AI (Music) : AudioCraft[Meta]
+활용한 오픈소스 AI Sound(AudioCraft) : "This music was generated using Meta's MusicGen model (facebook/musicgen-large) under the CC BY-NC 4.0 license."
 
-활용한 오픈소스 AI (LLM)   : llama(3,4)[Meta]
+활용한 오픈소스 AI Sound             : give me idea
+
+활용한 오픈소스 AI (LLM)             : llama(3,4)[Meta]
